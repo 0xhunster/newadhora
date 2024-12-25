@@ -1,7 +1,7 @@
 {
   "programs": [
     {
-      "name": "stellantiscloud-mbb-og",
+      "name": "stellantiscloud-mbb",
       "bounty": true,
       "swag": false,
       "note": "",
