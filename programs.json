@@ -22,32 +22,6 @@
         "nasa.gov"
       ],
       "unscope": []
-    },
-    {
-      "name": "paddle-com-bug-bounty-program",
-      "bounty": true,
-      "swag": false,
-      "note": "",
-      "url": "https://yeswehack.com/programs/paddle-com-bug-bounty-program",
-      "domains": [
-        "hackerone.com"
-      ],
-      "unscope": [
-        "support.hackeronem.com"
-      ]
-    },
-    {
-      "name": "ganja",
-      "bounty": false,
-      "swag": false,
-      "note": "",
-      "url": "https://ganja.com",
-      "domains": [
-        "ganja.com"
-      ],
-      "unscope": [
-        "www*.ganja.com"
-      ]
     }
   ]
 }
